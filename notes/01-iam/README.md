@@ -37,3 +37,8 @@ arn:aws:service:region:account:resource
 
 ## My Notes
 
+*Detailed notes in Obsidian vault*
+
+- ✅ Completed Module 1: Course Fundamentals & AWS Accounts (8/9 lessons)
+- Remaining: AWS CLI v2 setup demo
+

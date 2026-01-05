@@ -21,7 +21,7 @@ Track labs completed during study.
 
 | Demo | Section | Completed |
 |------|---------|-----------|
-| Creating an AWS Account | Fundamentals | [ ] |
+| Creating an AWS Account | Fundamentals | [x] |
 | My First EC2 Instance | AWS Fundamentals | [ ] |
 | My First S3 Bucket | AWS Fundamentals | [ ] |
 | Simple Automation with CloudFormation | AWS Fundamentals | [ ] |
