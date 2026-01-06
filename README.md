@@ -12,7 +12,7 @@ Tracking my journey to AWS Solutions Architect Associate certification.
 | # | Module | Cantrill | Quiz | Status |
 |---|--------|----------|------|--------|
 | 1 | Course Fundamentals & AWS Accounts | [x] | - | 🟡 |
-| 2 | AWS Fundamentals | [ ] | - | ⬜ |
+| 2 | AWS Fundamentals | [ ] | - | 🟡 |
 | 3 | IAM, Accounts & Organizations | [ ] | [ ] | ⬜ |
 | 4 | S3 | [ ] | [ ] | ⬜ |
 | 5 | VPC Basics | [ ] | [ ] | ⬜ |
