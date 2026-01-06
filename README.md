@@ -11,7 +11,7 @@ Tracking my journey to AWS Solutions Architect Associate certification.
 ### Week 1-2: Foundations & Core Services
 | # | Module | Cantrill | Quiz | Status |
 |---|--------|----------|------|--------|
-| 1 | Course Fundamentals & AWS Accounts | [x] | - | 🟡 |
+| 1 | Course Fundamentals & AWS Accounts | [x] | - | ✅ |
 | 2 | AWS Fundamentals | [ ] | - | 🟡 |
 | 3 | IAM, Accounts & Organizations | [ ] | [ ] | ⬜ |
 | 4 | S3 | [ ] | [ ] | ⬜ |
